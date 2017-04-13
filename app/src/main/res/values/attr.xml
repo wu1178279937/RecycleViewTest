@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HomepageHeaderView">
+        <attr name="typename" format="string|reference" />
+        <attr name="lefthimage" format="reference"></attr>
+        <attr name="isrightivtvvisible" format="boolean"></attr>
+
+    </declare-styleable>
+    <declare-styleable name="radio_view">
+        <attr name="startcolor" format="color|reference" />
+        <attr name="endcolor" format="color|reference" />
+        <attr name="bgcolor" format="color" />
+        <attr name="linecolor" format="color" />
+        </declare-styleable>
+    <attr name="circlecount" format="integer" />
+</resources>
